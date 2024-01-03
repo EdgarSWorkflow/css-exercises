@@ -1,0 +1,18 @@
+.odd {
+     background-color: rgb(237, 112, 160);
+     font-family: Verdana, "DejaVu Serif", sans-serif
+}
+
+#two {
+     color: blue;
+     font-size: 36px;
+}
+
+.font{
+     font-size: 24px;
+}
+
+#hulk{
+     background-color: green;
+     font-weight: bold;
+}
